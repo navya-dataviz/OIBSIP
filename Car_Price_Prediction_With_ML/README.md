@@ -8,7 +8,9 @@ It analyzes various factors such as year, fuel type, and present price to estima
 🎯 Objectives
 
 Build a machine learning model to predict car prices
+
 Compare multiple models for performance
+
 Identify key factors influencing car price
 
 🛠️ Tools & Technologies
